@@ -55,6 +55,7 @@ The folowing **extensions** are implemented:
   
 ## Video Walkthrough 
 
+
 ## Notes
 * Everything should work as intended
 
